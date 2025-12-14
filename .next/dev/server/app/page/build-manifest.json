@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/a1c9a_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_009f42a3._.js",
+    "static/chunks/a1c9a_next_dist_compiled_react-dom_abf7400b._.js",
+    "static/chunks/a1c9a_next_dist_compiled_react-server-dom-turbopack_13251329._.js",
+    "static/chunks/a1c9a_next_dist_compiled_next-devtools_index_bd686fea.js",
+    "static/chunks/a1c9a_next_dist_compiled_fb5c1ac8._.js",
+    "static/chunks/a1c9a_next_dist_client_f8b4ab99._.js",
+    "static/chunks/a1c9a_next_dist_352ca7f3._.js",
+    "static/chunks/a1c9a_@swc_helpers_cjs_8faf6651._.js",
+    "static/chunks/Downloads_house-of-edtech-full_a0ff3932._.js",
+    "static/chunks/turbopack-Downloads_house-of-edtech-full_6d887bb7._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}

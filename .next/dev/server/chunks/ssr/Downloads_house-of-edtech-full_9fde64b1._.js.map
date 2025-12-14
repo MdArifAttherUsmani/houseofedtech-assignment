@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Downloads/house-of-edtech-full/src/app/layout.tsx"],"sourcesContent":["\nimport \"./globals.css\";\nexport default function RootLayout({ children }: { children: React.ReactNode }) {\n  return (\n    <html lang=\"en\">\n      <body className=\"bg-gray-50\">\n        <header className=\"p-4 bg-black text-white font-semibold\">House of EdTech</header>\n        <main className=\"p-6 max-w-4xl mx-auto\">{children}</main>\n        <footer className=\"p-4 text-xs text-center text-gray-500\">\n          Md Arif Atther Usmani | GitHub | LinkedIn\n        </footer>\n      </body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;;;;AAEe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAC5E,qBACE,4RAAC;QAAK,MAAK;kBACT,cAAA,4RAAC;YAAK,WAAU;;8BACd,4RAAC;oBAAO,WAAU;8BAAwC;;;;;;8BAC1D,4RAAC;oBAAK,WAAU;8BAAyB;;;;;;8BACzC,4RAAC;oBAAO,WAAU;8BAAwC;;;;;;;;;;;;;;;;;AAMlE","debugId":null}},
+    {"offset": {"line": 57, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Downloads/house-of-edtech-full/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,2JACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}
